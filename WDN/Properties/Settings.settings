@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WDN.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">642870135</Value>
+    </Setting>
+    <Setting Name="AppSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d2f7fcf60fb3948475015e589292fa3c</Value>
+    </Setting>
+    <Setting Name="AcessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CallBackUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
